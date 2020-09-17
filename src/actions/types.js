@@ -1,0 +1,9 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const GET_ALL_CONTACT = 'GET_ALL_CONTACT';
+export const CONTACT_LOADING = 'CONTACT_LOADING';
+export const POST_CONTACT = 'POST_CONTACT';
+export const GET_CONTACT_BY_ID = 'GET_CONTACT_BY_ID';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
